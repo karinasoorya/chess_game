@@ -1,6 +1,3 @@
-#There's some issue with the queen movement - sometimes lets you take two turns, weird
-#Also checkmate logic is off
-#Also let me put my own king in check
 import piece
 
 class Board():
